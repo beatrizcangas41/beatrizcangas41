@@ -18,7 +18,6 @@
 
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=beatrizcangas41&label=PROFILE%20VIEWS&color=7c3aed&style=flat-square)
 [![Followers](https://img.shields.io/github/followers/beatrizcangas41?label=Followers&style=flat-square&color=6366F1&logo=github&logoColor=white)](https://github.com/beatrizcangas41?tab=followers)
 [![Stars](https://img.shields.io/github/stars/beatrizcangas41?label=Stars&style=flat-square&color=8B5CF6&logo=github&logoColor=white)](https://github.com/beatrizcangas41?tab=repositories)
 
@@ -38,7 +37,7 @@ My GitHub also includes forks of MCP servers, Hugging Face skills, and creative 
 
 ### Open to
 
-Conversations about educational software, practical AI tools, and useful digital products. Explore the projects below or start a conversation through [this profile's discussions](https://github.com/beatrizcangas41/beatrizcangas41/issues).
+Conversations about educational software, practical AI tools, and useful digital products. Explore the projects below or start a conversation through [this profile's issue tracker](https://github.com/beatrizcangas41/beatrizcangas41/issues).
 
 ---
 
@@ -207,7 +206,7 @@ Public repositories document work across educational applications, database-back
 
 <div align="center">
 
-<a href="https://github.com/beatrizcangas41"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=beatrizcangas41&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12" alt="GitHub statistics trophies" /></a>
+<a href="https://github.com/beatrizcangas41"><img width="100%" src="https://trophy.ryglcloud.net/?username=beatrizcangas41&theme=discord&no-frame=true&no-bg=true&column=3&title=Repositories,Stars,MultiLanguage&margin-w=12&margin-h=12" alt="GitHub statistics trophies" /></a>
 
 </div>
 
@@ -217,7 +216,9 @@ Public repositories document work across educational applications, database-back
 
 <div align="center">
 
-<a href="https://github.com/beatrizcangas41"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=beatrizcangas41&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true&radius=12" alt="Public GitHub contribution activity" /></a>
+[![Repository activity](https://img.shields.io/badge/Explore_Repository_Activity-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatrizcangas41/beatrizcangas41/activity)
+
+Public repository history is available through GitHub. Contribution visibility follows my profile privacy settings.
 
 </div>
 
@@ -241,7 +242,7 @@ Learning:
   - Practical applications of machine learning
 
 Building:
-  - Bea Destinations: original photography and useful trip planning
+  - "Bea Destinations: original photography and useful trip planning"
   - A clearer portfolio of documented software projects
 
 Exploring:
