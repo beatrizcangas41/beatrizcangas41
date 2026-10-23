@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:831843,50:E74A7B,100:F472B6&height=220&section=header&text=Beatriz%20Cangas%20Perez&fontSize=42&fontColor=FFFFFF&fontFamily=Georgia" alt="Header banner for Beatriz Cangas Perez" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:831843,50:E74A7B,100:F472B6&height=220&section=header&text=Beatriz%20Cangas%20Perez&fontSize=42&fontColor=FFFFFF&fontAlign=middle&fontFamily=Verdana&dropShadow=true&dropShadowColor=F472B6" />
 
 <h1>Beatriz Cangas Perez</h1>
 
 <p>
-  <strong>Senior Solutions Manager</strong> • Salesforce & Business Systems • Product Ownership
+  <strong>Salesforce & Business Systems Leader</strong> • Product Strategy • AI Enablement
 </p>
 
 <a href="https://github.com/beatrizcangas41">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3200&pause=1000&color=F9A8D4&center=true&vCenter=true&width=800&height=55&lines=Salesforce+%26+Business+Systems;Technical+Product+Ownership;Practical+AI+Applications" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3200&pause=1000&color=F9A8D4&center=true&vCenter=true&width=800&height=55&lines=Salesforce+%26+Business+Systems;CRM+Automation;AI+Product+Enablement;Product+Operations+%26+Delivery" alt="Typing SVG" />
 </a>
 
 <br />
@@ -30,11 +30,19 @@
 
 ## About
 
-I'm a Salesforce and business systems leader with a background in product ownership, CRM strategy, automation, and practical AI adoption. I work at the intersection of business needs, system design, and user experience.
+I'm a Salesforce and business systems leader with a background in product ownership, CRM strategy, automation, and practical AI adoption. I work at the intersection of business needs, system design, and scalable delivery.
 
-My work spans Salesforce administration, GTM systems, reporting, governance, and cross-functional delivery. I also bring a technical foundation from software engineering, with a focus on building useful, well-structured systems.
+My work spans Salesforce administration, GTM systems, reporting, governance, process design, and cross-functional leadership. I also bring a technical foundation from software engineering, with a focus on building useful solutions that connect systems, workflows, and business outcomes.
 
 I hold degrees in Computer Science and Computer Engineering from Florida Atlantic University and maintain a public profile on [Trailhead](https://www.salesforce.com/trailblazer/bcangas97) and [LinkedIn](https://www.linkedin.com/in/beatriz-cangas-perez/).
+
+### What I focus on
+
+- Salesforce platform strategy and optimization
+- Business systems, automation, and reporting
+- Product operations and cross-functional execution
+- Practical AI adoption and workflow enablement
+- Building clean, scalable, user-centered solutions
 
 ---
 
@@ -104,7 +112,7 @@ Driving solution strategy, product operations, and platform enablement across bu
 
 August 2024 — September 2026
 
-Led Salesforce and GTM system strategy, automation, integrations, reporting, and process improvement. Worked across sales, marketing, finance, and operations to build scalable systems for a large user base.
+Led Salesforce and GTM system strategy, automation, integrations, reporting, and process improvement. Worked across sales, marketing, finance, and operations to build scalable systems for a large organization.
 
 ### Owner & Salesforce Solutions Consultant · BKG Consulting Group, LLC
 
@@ -124,18 +132,21 @@ Provided Salesforce consulting and business-system strategy for client operation
 ## Skills
 
 ### Salesforce & business systems
+
 - Salesforce administration and configuration
 - CRM strategy and process optimization
 - Reporting, automation, governance, and adoption
 - GTM / business system enablement
 
 ### Software and technical foundations
+
 - Java
 - MATLAB
 - Python
 - C++
 - SQL / data workflows
 - Product-focused application design
+- AI and ML workflow experimentation
 
 ---
 
@@ -164,7 +175,7 @@ Provided Salesforce consulting and business-system strategy for client operation
 
 <div align="center">
 
-<a href="https://github.com/beatrizcangas41"><img src="https://streak-stats.demolab.com?user=beatrizcangas41&hide_border=true&background=0D1117&stroke=831843&ring=F472B6&fire=F9A8D4&currStreakNum=F9A8D4&sideNums=F9A8D4&currStreakLabel=F9A8D4&sideLabels=F9A8D4&dates=F9A8D4" alt="GitHub streak stats" /></a>
+<a href="https://github.com/beatrizcangas41"><img src="https://streak-stats.demolab.com?user=beatrizcangas41&hide_border=true&background=0D1117&stroke=831843&ring=F472B6&fire=F9A8D4&currStreakNum=F9A8D4&sideNums=F9A8D4&currStreakLabel=F9A8D4&dates=F9A8D4" alt="GitHub Streak" /></a>
 
 </div>
 
