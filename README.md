@@ -9,7 +9,7 @@
 </p>
 
 <a href="https://github.com/beatrizcangas41">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=1000&color=F9A8D4&center=true&vCenter=true&width=800&height=55&lines=Salesforce+Strategy;CRM+Automation;Business+Systems;AI+Product+Enablement;Scalable+Delivery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=1000&color=F9A8D4&center=true&vCenter=true&width=850&height=55&lines=Salesforce+Strategy;CRM+Automation;Business+Systems;AI+Product+Enablement;Scalable+Delivery" alt="Typing SVG" />
 </a>
 
 <br />
@@ -31,26 +31,26 @@
 
 ## About
 
-I’m a Salesforce and business systems leader with a strong operational backbone in product ownership, CRM strategy, automation, and practical AI enablement. I work at the intersection of business needs, technical design, and scalable delivery to turn complexity into clear, useful systems.
+I’m a Salesforce and business systems leader with a strong operational backbone in product ownership, CRM strategy, automation, and practical AI enablement. I work at the intersection of business needs, technical design, and scalable execution to turn complexity into clear, useful systems.
 
-My background combines business process transformation with software and systems thinking. I lead initiatives around Salesforce optimization, reporting, governance, GTM systems, and AI-assisted workflows that improve execution across teams.
+My background bridges business transformation and software thinking. I lead work across Salesforce optimization, CRMs, reporting, governance, GTM systems, and AI-assisted workflows that improve execution across teams and functions.
 
 I hold degrees in Computer Science and Computer Engineering from Florida Atlantic University, and I maintain an active public profile on [Trailhead](https://www.salesforce.com/trailblazer/bcangas97) and [LinkedIn](https://www.linkedin.com/in/beatriz-cangas-perez/).
 
 ---
 
-## Executive Snapshot
+## Strategic Focus
 
-- Salesforce strategy and optimization
-- CRM architecture and process design
-- Business systems enablement across GTM & operations
-- Reporting, automation, and governance
-- AI adoption for practical workflow improvement
+- Salesforce strategy and platform optimization
+- CRM architecture, automation, and process design
+- Business systems enablement across GTM and operations
+- AI adoption for workflow productivity and practical decision support
 - Product-minded delivery with measurable business impact
+- Cross-functional leadership across technology and business stakeholders
 
 ---
 
-## Featured Projects
+## Featured Public Projects
 
 These public repositories reflect my work across software, systems thinking, and applied AI/ML.
 
@@ -102,12 +102,12 @@ Leading solution strategy, product operations, and platform enablement across bu
 ### CRM Manager, Salesforce & GTM Systems · Curinos
 August 2024 — September 2026
 
-Drove Salesforce and GTM system strategy, automation, integrations, reporting, and process improvement across key business functions.
+Drove Salesforce and GTM system strategy, automation, integrations, reporting, and process improvement across core business functions.
 
 ### Owner & Salesforce Solutions Consultant · BKG Consulting Group, LLC
 October 2021 — October 2023
 
-Delivered Salesforce consulting and business-system strategy aimed at operational efficiency and process improvement.
+Delivered Salesforce consulting and business-system strategy focused on operational efficiency and process improvement.
 
 ### Earlier technical roles
 - Houlihan Lokey — Salesforce Consultant (Contract)
@@ -123,7 +123,7 @@ Delivered Salesforce consulting and business-system strategy aimed at operationa
 - Salesforce administration and configuration
 - CRM strategy and process optimization
 - Reporting, automation, governance, and adoption
-- GTM and business system enablement
+- GTM systems and business enablement
 
 ### Software & Technical Foundation
 - Java
