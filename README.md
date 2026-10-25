@@ -35,7 +35,7 @@ I’m a Salesforce and business systems leader with a strong operational backbon
 
 My background bridges business transformation and software thinking. I lead work across Salesforce optimization, CRMs, reporting, governance, GTM systems, and AI-assisted workflows that improve execution across teams and functions.
 
-I hold degrees in Computer Science and Computer Engineering from Florida Atlantic University, and I maintain an active public profile on [Trailhead](https://www.salesforce.com/trailblazer/bcangas97) and [LinkedIn](https://www.linkedin.com/in/beatriz-cangas-perez/).
+I hold degrees in Computer Science and Computer Engineering from Florida Atlantic University, and I maintain an active public profile on [Trailhead](https://www.salesforce.com/trailblazer/bcangas97) and [LinkedIn](https://www.linkedin.com/in/beatriz-cangas-perez/). My Trailhead learning includes Agentblazer Champion Level 1 (completed August 2026).
 
 ---
 
