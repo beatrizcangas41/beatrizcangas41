@@ -5,7 +5,7 @@
 <h1>Beatriz Cangas Perez</h1>
 
 <p>
-  <strong>Senior Solutions Manager</strong> • Salesforce & Business Systems • Product Strategy • AI Enablement
+  <strong>Senior Solutions Manager</strong> • Salesforce & Business Systems • Technical Product Ownership • CRM & GTM Systems
 </p>
 
 <a href="https://github.com/beatrizcangas41">
@@ -31,11 +31,11 @@
 
 ## About
 
-I’m a Salesforce and business systems leader with a strong operational backbone in product ownership, CRM strategy, automation, and practical AI enablement. I work at the intersection of business needs, technical design, and scalable execution to turn complexity into clear, useful systems.
+I’m a Salesforce and business systems leader with 8+ years of experience managing enterprise platforms, shaping CRM strategy, and leading cross-functional delivery across Sales, Marketing, Finance, and Operations. I work at the intersection of business needs, technical design, and scalable execution to turn complexity into clear, useful systems.
 
-My background bridges business transformation and software thinking. I lead work across Salesforce optimization, CRMs, reporting, governance, GTM systems, and AI-assisted workflows that improve execution across teams and functions.
+My background bridges business transformation and software thinking. I specialize in Salesforce administration, GTM and revenue systems, technical product ownership, integrations, automation, data governance, reporting, and user adoption.
 
-I hold degrees in Computer Science and Computer Engineering from Florida Atlantic University, and I maintain an active public profile on [Trailhead](https://www.salesforce.com/trailblazer/bcangas97) and [LinkedIn](https://www.linkedin.com/in/beatriz-cangas-perez/). My Trailhead learning includes Agentblazer Champion Level 1 (completed August 2026).
+I hold Bachelor of Applied Science degrees in Computer Science and Computer Engineering from Florida Atlantic University, as well as an Associate of Arts in Computer Science & Engineering, General from Palm Beach State College (2018). I maintain an active public profile on [Trailhead](https://www.salesforce.com/trailblazer/bcangas97) and [LinkedIn](https://www.linkedin.com/in/beatriz-cangas-perez/). My Trailhead learning includes Agentblazer Champion Level 1 (completed August 2026).
 
 ---
 
@@ -104,16 +104,20 @@ August 2024 — September 2026
 
 Drove Salesforce and GTM system strategy, automation, integrations, reporting, and process improvement across core business functions.
 
+### Sr. Salesforce Admin & GTM Systems Manager · Curinos
+May 2022 — August 2024
+
 ### Owner & Salesforce Solutions Consultant · BKG Consulting Group, LLC
 October 2021 — October 2023
 
 Delivered Salesforce consulting and business-system strategy focused on operational efficiency and process improvement.
 
 ### Earlier technical roles
-- Houlihan Lokey — Salesforce Consultant (Contract)
-- Slavic401k — AI/ML & Salesforce Engineer
-- National Securities Corporation — Application Engineer / Senior Salesforce Admin
-- National Securities Corporation — QA Engineer (Contract)
+- Houlihan Lokey — Salesforce Consultant (Contract), October 2021 — May 2022
+- Slavic401k — AI/ML & Salesforce Engineer; Salesforce Product Owner & Administrator, February 2021 — October 2021
+- National Securities Corporation — Application Engineer / Senior Salesforce Admin, August 2019 — February 2021
+- National Securities Corporation — Salesforce Administrator (Contract), August 2019 — December 2019
+- National Securities Corporation — Quality Assurance Engineer (Contract), May 2018 — August 2019
 
 ---
 
@@ -149,8 +153,8 @@ Delivered Salesforce consulting and business-system strategy focused on operatio
 - Certified Scrum Product Owner (CSPO)
 - Certified ScrumMaster (CSM)
 
-### Google
-- Introduction to AI
+### Course Certificate
+- Google — Introduction to AI (issued October 2026)
 
 ---
 
