@@ -5,7 +5,7 @@
 <h1>Beatriz Cangas Perez</h1>
 
 <p>
-  <strong>Senior Solutions Manager</strong> • Salesforce & Business Systems • Technical Product Ownership • CRM & GTM Systems
+  <strong>Solutions & Business Systems Leader</strong> • Technical Product Ownership • Salesforce & GTM Systems
 </p>
 
 <a href="https://github.com/beatrizcangas41">
@@ -33,7 +33,7 @@
 
 I’m a Salesforce and business systems leader with 8+ years of experience managing enterprise platforms, shaping CRM strategy, and leading cross-functional delivery across Sales, Marketing, Finance, and Operations. I work at the intersection of business needs, technical design, and scalable execution to turn complexity into clear, useful systems.
 
-My background bridges business transformation and software thinking. I specialize in Salesforce administration, GTM and revenue systems, technical product ownership, integrations, automation, data governance, reporting, and user adoption.
+I specialize in Salesforce administration, GTM and revenue systems, product ownership, integrations, automation, data governance, reporting, and user adoption. My experience includes leading platform initiatives for 1,500+ users, managing vendors and Agile delivery, and translating complex business needs into scalable solutions.
 
 I hold Bachelor of Applied Science degrees in Computer Science and Computer Engineering from Florida Atlantic University, as well as an Associate of Arts in Computer Science & Engineering, General from Palm Beach State College (2018). I maintain an active public profile on [Trailhead](https://www.salesforce.com/trailblazer/bcangas97) and [LinkedIn](https://www.linkedin.com/in/beatriz-cangas-perez/). My Trailhead learning includes Agentblazer Champion Level 1 (completed August 2026).
 
@@ -94,7 +94,7 @@ Deep learning exploration focused on text-to-speech experimentation and model le
 
 ## Experience
 
-### Senior Solutions Manager · Bluebeam
+### Sr. Solutions Manager · Bluebeam
 October 2026 — Present
 
 Leading solution strategy, product operations, and platform enablement across business and technology stakeholders.
